@@ -1052,4 +1052,4 @@ However, the convolution accelerator and AXI integration can be adapted to other
 This project was developed collaboratively as part of a **Digital Systems Design** final project.
 
 - **[@SMousavi7](https://github.com/SMousavi7)**
-- **[@TEAMMATE_GITHUB_USERNAME](https://github.com/TEAMMATE_GITHUB_USERNAME)**
+- **[@mittypitty](https://github.com/mittypitty)**
